@@ -34,7 +34,7 @@
     "sentry-expo": "1.2.0"
   },
   "devDependencies": {
-    "eslint": "^4.1.1",
+    "eslint": "^4.18.2",
     "eslint-config-react-native-prettier": "1.0.0",
     "jest-expo": "~18.0.0",
     "react-native-scripts": "^0.0.40"
